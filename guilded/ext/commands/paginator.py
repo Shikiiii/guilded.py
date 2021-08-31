@@ -1,6 +1,6 @@
 
 class Paginator:
-    """A class that aids in paginating code blocks for Discord messages.
+    """A class that aids in paginating code blocks for Guilded messages.
 
     .. container:: operations
 
